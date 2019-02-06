@@ -1,0 +1,22 @@
+{
+  "name": "Sdomotica Gateway for BTicino",
+  "version": "1.2",
+  "slug": "sdomoticadebian",
+  "description": "Gateway for BTicino Legrand MyHome SCS system. Support MHserver1, F454, F453AV, F452, MH200, MH200N, MH202, MH201",
+  "url": "https://www.facebook.com/profile.php?id=100011452626594",
+   "webui": "http://[HOST]:[PORT:3100]",  
+  "startup": "application",
+  "boot": "auto",
+  "ports": {
+    "3100/tcp": 3100,
+    "3300/tcp": 3300
+
+   },
+  "map": [
+    "share:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

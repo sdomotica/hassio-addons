@@ -6,22 +6,11 @@
         "pin": "031-45-154"
     },
     
-    "description": "Secondo onfig",
+    "description": "This is the config file based on Homebridge standard. Please edit only accessories into platforms",
 
-    "accessories": [
-        
-    ],
+    "accessories": [  ],
 
     "platforms": [
-{
-  "platform": "mqtt",
-  "name": "mqtt",
-  "url": "mqtt://127.0.0.1",
-  "port": "1883",
-  "topic_type": "multiple",
-  "topic_prefix": "homebridge",
-  "qos": 1
-},
 
         {
             "platform": "MyHome2",

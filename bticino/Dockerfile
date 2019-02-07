@@ -1,12 +1,10 @@
-FROM raspbian/stretch
-
-ENV LANG C.UTF-8
-
+FROM generalaardvark/rpi-picore 
+USER root
 RUN mkdir /sdomotica
+
 COPY sdomotica /sdomotica
 COPY config_default.json /sdomotica
 COPY sdomotica_js.cfg /sdomotica
-#COPY sdomotica_js.cfg /data
 
 RUN chmod a+x /sdomotica/sdomotica
 #WORKDIR /sdomotica

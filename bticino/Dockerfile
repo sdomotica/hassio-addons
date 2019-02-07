@@ -1,14 +1,12 @@
-FROM raspbian/stretch
+FROM generalaardvark/rpi-picore 
 
-ENV LANG C.UTF-8
+RUN sudo mkdir /sdomotica
 
-RUN mkdir /sdomotica
 COPY sdomotica /sdomotica
-COPY config2.json /sdomotica/config.json
+COPY config_default.json /sdomotica
 COPY sdomotica_js.cfg /sdomotica
-#COPY sdomotica_js.cfg /data
 
-RUN chmod a+x /sdomotica/sdomotica
+RUN sudo chmod a+x /sdomotica/sdomotica
 #WORKDIR /sdomotica
 
 #-- Logs and config information go into the volume on /data

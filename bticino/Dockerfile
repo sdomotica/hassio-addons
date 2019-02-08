@@ -1,16 +1,5 @@
-FROM generalaardvark/rpi-picore 
-USER root
-RUN mkdir /sdomotica
-
-COPY sdomotica /sdomotica
-COPY config_default.json /sdomotica
-COPY sdomotica_js.cfg /sdomotica
-
-RUN chmod a+x /sdomotica/sdomotica
-#WORKDIR /sdomotica
-
+FROM sdomotica/sdomotica:first
 #-- Logs and config information go into the volume on /data
-#VOLUME /data
 VOLUME /sdomotica
 
 #-- OpenSprinkler interface is available on 8080

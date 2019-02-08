@@ -1,7 +1,7 @@
 {
   "name": "Sdomotica Gateway for BTicino",
-  "version": "1.7",
-  "slug": "sdomoticapicore",
+  "version": "2.0",
+  "slug": "sdomoticadockerhub",
   "description": "Gateway for BTicino Legrand MyHome SCS system and LivingNow",
   "url": "https://www.facebook.com/profile.php?id=100011452626594",
    "webui": "http://[HOST]:[PORT:3100]",  

@@ -7,4 +7,4 @@ Sdomotica Gateway translates home automation commands into MQTT messages and hav
 
 Please follow all the steps to install and configure add-on, don’t jump any step
  
- Manual [here](../Hassio_Sdomotica_manual.pdf) # Enjoy with it!
+ Manual [here](https://github.com/sdomotica/hassio-addons/blob/master/Hassio_Sdomotica_manual.pdf) # Enjoy with it!

@@ -2,6 +2,6 @@
 
 ### Changed
 
-- Test on Changelog
-- No update required
+- Removed retail flag
+
 

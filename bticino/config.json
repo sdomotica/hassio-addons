@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica Gateway for BTicino",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "slug": "sdomoticadocker",
   "arch": ["armv7"],
   "description": "Gateway for BTicino Legrand MyHome SCS system and LivingNow",
@@ -10,6 +10,7 @@
   "boot": "auto",
   "ports": {
     "3100/tcp": 3100,
+    "3000/tcp": 3000,
     "3300/tcp": 3300
 
    },

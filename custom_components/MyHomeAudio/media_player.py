@@ -11,11 +11,19 @@ import time
 import requests
 
 from homeassistant.util import Throttle
+
+
 from homeassistant.components.media_player import (
-    SUPPORT_SELECT_SOURCE, MediaPlayerDevice, PLATFORM_SCHEMA,
+    MediaPlayerDevice, PLATFORM_SCHEMA)
+
+from homeassistant.components.media_player.const import (
+    SUPPORT_SELECT_SOURCE,
     SUPPORT_PREVIOUS_TRACK, SUPPORT_TURN_OFF, SUPPORT_TURN_ON,
     SUPPORT_VOLUME_STEP, MEDIA_TYPE_MUSIC,
     SUPPORT_NEXT_TRACK, SUPPORT_VOLUME_MUTE, SUPPORT_VOLUME_SET)
+
+
+
 from homeassistant.const import (
     CONF_HOST, STATE_OFF, STATE_ON, STATE_UNKNOWN, CONF_NAME, CONF_PORT,
     CONF_USERNAME, CONF_PASSWORD, CONF_TIMEOUT, CONF_ADDRESS)

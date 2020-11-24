@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica KseniaIP",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "slug": "sdomoticakseniaip",
   "arch": ["armv7"],   
   "description": "Gateway for BTicino/KseniaIP Alarm",

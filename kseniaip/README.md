@@ -4,7 +4,7 @@
 
 Integrate your KseniaIP alarm system into Home Assistant
 
-![WebInterface](images/web.png)
+![WebInterface][webinterface]
 
 ## English
 Sdomotica is a gateway using no official API to integrate KsenaIP alarm
@@ -53,4 +53,4 @@ SOFTWARE.
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [manuale]: http://www.sdomotica.com/gateway2/KseniaIP_Sdomotica.pdf
-
+[webinterface]: http://www.sdomotica.com/gateway2/kseniaipweb.png

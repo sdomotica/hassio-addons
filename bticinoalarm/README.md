@@ -1,15 +1,15 @@
-# Sdomotica Gateway for KseniaIP
+# Sdomotica Gateway for BTicino Alarm 4200/4201/4202
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
 ![Tastierino][tastiera]
 
-Integrate your KseniaIP alarm system into Home Assistant
+Integrate your BTicino Alarm alarm system into Home Assistant
 
 ![WebInterface][webinterface]
 
 ## English
-Sdomotica is a gateway using no official API to integrate KsenaIP alarm
+Sdomotica is a gateway using no official API to integrate BTicino alarm
 system to Home Assistant.
 
 The integration expose as mqtt services all the alarm functions as
@@ -24,7 +24,7 @@ Here the [manual][manuale] for configure the addon
 
 ## Italiano
 Sdomotica è un gateway che utilizza API non ufficiali per integrare la
-centrale di allarme KseniaIP a Home Assistant.
+centrale di allarme di BTicino a Home Assistant.
 
 L'integrazione espone come servizi mqtt tutte le funzioni della centrale
 dall'allarme come zone, partizioni, scenari, inserimenti e

@@ -1,9 +1,9 @@
 {
-  "name": "Sdomotica KseniaIP",
-  "version": "0.0.4",
-  "slug": "sdomoticakseniaip",
+  "name": "Sdomotica BTicino Alarm",
+  "version": "0.0.1",
+  "slug": "sdomoticabtalarm",
   "arch": ["armhf", "armv7", "aarch64"],
-  "description": "Gateway for KseniaIP Alarm",
+  "description": "Gateway for BTicino Alarm 4200/4201/4202",
   "url": "https://www.facebook.com/sdomotica",
    "webui": "http://[HOST]:[PORT:3010]",  
   "startup": "application",

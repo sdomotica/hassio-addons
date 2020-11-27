@@ -1,5 +1,3 @@
-# ChangeLog
-
 ## 0.0.5 27.11.2020
 Builder Bug Fixed. Thanks to Marco M.
 

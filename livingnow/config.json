@@ -1,0 +1,24 @@
+{
+  "name": "Sdomotica BTicino Living Now",
+  "version": "0.0.1",
+  "slug": "sdomoticawwl",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Gateway for BTicino Living Now",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3202]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3201/tcp": 3202
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

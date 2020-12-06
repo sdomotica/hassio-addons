@@ -43,6 +43,6 @@ SOFTWARE.
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-green.svg
-[manuale]: http://www.sdomotica.com/gateway2/KseniaIP_Sdomotica.pdf
+[manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_Smarther1.pdf
 [webinterface]: http://www.sdomotica.com/gateway2/smartherwebinterface.png
 [tastiera]: http://www.sdomotica.com/gateway2/smarther1.png

@@ -1,0 +1,24 @@
+{
+  "name": "Sdomotica BTicino MyHOME_Up Scenarios",
+  "version": "0.0.1",
+  "slug": "sdomoticamh1",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Gateway for start MyHOME_Up Scenarios  in Home Assistant",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3203]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3201/tcp": 3203
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

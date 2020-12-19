@@ -1,6 +1,5 @@
-FROM sdomotica/kseniaip:first
-USER root
-ENV LANG C.UTF-8
+FROM sdomotica/kseniaip:alpine
 VOLUME /sdomotica
 EXPOSE 3010
-CMD [ "./sdomotica/kseniaiprpi" ]
+CMD ./sdomotica/kseniaiprpi
+

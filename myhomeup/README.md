@@ -18,7 +18,7 @@ The official Legrand API permit only 500 daily calls
 Here the [manual][manuale] for configure the addon
 
 ## Italiano
-Sdomotica è un gateway che utilizza le API ufficiali di Legrand per integrare il termostato Smarther 1 X8000 e X8000W di BTicino a Home Assistant.
+Sdomotica è un gateway che utilizza le API ufficiali di Legrand per integrare BTicino MyHOME_Up di BTicino a Home Assistant.
 
 Questo addon è per BTicino MyHOME_Up app e NON Home +  app
 

@@ -1,0 +1,24 @@
+{
+  "name": "Sdomotica Ksenia 4.0",
+  "version": "0.0.1",
+  "slug": "sdomoticaksenia40",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Gateway for Ksenia 4.0 Alarm",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3020]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3020/tcp": 3020
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

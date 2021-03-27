@@ -43,7 +43,7 @@ SOFTWARE.
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-green.svg
 [manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_BTicino_2.pdf
-[webinterface]: http://www.sdomotica.com/gateway2/webinterface4.0.jpg
+[webinterface]: http://www.sdomotica.com/gateway2/scswebinterface.png
 [scs1]: http://www.sdomotica.com/gateway2/scs1.png
 [scs2]: http://www.sdomotica.com/gateway2/scs2.png
 [scs3]: http://www.sdomotica.com/gateway2/scs3.png

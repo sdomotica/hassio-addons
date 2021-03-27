@@ -1,0 +1,26 @@
+{
+  "name": "Sdomotica BTicino Beta 2021 remote",
+  "version": "0.0.1",
+  "slug": "sdomoticabticino20212",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Gateway for BTicino SCS for second system",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3101]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3100/tcp": 3101,
+    "3000/tcp": 3001,
+    "3300/tcp": 3301
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

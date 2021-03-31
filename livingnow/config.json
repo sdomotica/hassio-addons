@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica BTicino Living Now",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "slug": "sdomoticawwl",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for BTicino Living Now",

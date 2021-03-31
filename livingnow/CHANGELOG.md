@@ -1,3 +1,7 @@
+## 0.0.4 31.03.2021
+Fixed Energy
+Insert uniqui_id for entity customize
+
 ## 0.0.3 08.12.2020
 Fixed Dimmer on/off
 

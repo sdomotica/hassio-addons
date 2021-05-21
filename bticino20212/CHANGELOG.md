@@ -1,3 +1,7 @@
+## 0.0.6 21.05.2021 
+Door entry
+Enable-Disable
+
 ## 0.0.5 11.05.2021 
 Aedes Broker Fix
 

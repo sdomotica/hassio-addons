@@ -42,7 +42,7 @@ SOFTWARE.
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-green.svg
-[manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_BTicino_2.pdf
+[manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_Netatmo.pdf
 [webinterface]: http://www.sdomotica.com/gateway2/scswebinterface.png
 [scs1]: http://www.sdomotica.com/gateway2/netatmo1.jpg
 [scs2]: http://www.sdomotica.com/gateway2/netatmo2.jpg

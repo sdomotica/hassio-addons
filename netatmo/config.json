@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica Home + Control 2022",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "slug": "sdomoticanetatmo2022",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for Living Now Smart 2022, Smarther2 X8002",

@@ -1,3 +1,7 @@
+##WARING !!!!!!!!!!!!!!!!!
+Questo plugin verrà disabilitato a breve usate il Beta 2021
+This plugin will be disabled please use 2021
+
 # hassio-addons
 Sdomotica Gateway for Legrand BTicino MyHome Living Now (Wired)
 

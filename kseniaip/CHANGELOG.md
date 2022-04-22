@@ -1,8 +1,9 @@
-## 0.0.6 19.12.2020
-Alpine core
+## 0.03 multi 22.04.2022
+More security settings
+Dinamic topic
+Internal/External Temperature
+Output status
+Alarm Satus more reactive
 
-## 0.0.5 27.11.2020
-Builder Bug Fixed. Thanks to Marco M.
 
-## 0.0.1 25.11.2020 
-First version
+

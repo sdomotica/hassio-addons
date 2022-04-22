@@ -1,7 +1,7 @@
 {
   "name": "Sdomotica KseniaIP",
-  "version": "0.0.7",
-  "slug": "sdomoticakseniaip",
+  "version": "5",
+  "slug": "kseniaip2022",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for KseniaIP Alarm",
   "url": "https://www.facebook.com/sdomotica",

@@ -1,3 +1,7 @@
+## 0.0.7 14.06.2022 
+New Mqtt Home Assistant schema builder
+Please don't rebuild package if are using HA old version
+
 ## 0.0.6 21.05.2021 
 Door entry
 Enable-Disable

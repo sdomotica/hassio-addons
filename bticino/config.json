@@ -1,9 +1,9 @@
 {
-  "name": "Sdomotica Gateway for BTicino",
+  "name": "Sdomotica Gateway for BTicino - DEPRECATED",
   "version": "2.2.7",
   "slug": "sdomoticadocker",
   "arch": ["armv7"],
-  "description": "Gateway for BTicino Legrand MyHome SCS system and LivingNow",
+  "description": "---DEPRECATED-------",
   "url": "https://www.facebook.com/profile.php?id=100011452626594",
    "webui": "http://[HOST]:[PORT:3100]",  
   "startup": "application",

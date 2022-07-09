@@ -1,7 +1,7 @@
 {
   "name": "Sdomotica NOT INSTALL IT",
   "version": "2022.07.0",
-  "slug": "sdomoticalicenses",
+  "slug": "sdomoticalicensesrpi",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Addon for manage Sdomotica licenses",
   "url": "https://www.facebook.com/profile.php?id=100011452626594",

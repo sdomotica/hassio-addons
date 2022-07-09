@@ -1,0 +1,23 @@
+{
+  "name": "Sdomotica Licenses Addon",
+  "version": "2022.07.0",
+  "slug": "sdomoticalicenses",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Addon for manage Sdomotica licenses",
+  "url": "https://www.facebook.com/profile.php?id=100011452626594",
+   "webui": "http://[HOST]:[PORT:3437]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3437/tcp": 3437
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

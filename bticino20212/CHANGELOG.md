@@ -1,3 +1,6 @@
+## 2022.08.0 24.08.2022 
+Improved watchdog for BTicino Gateway disconnections
+
 ## 0.0.7 14.06.2022 
 New Mqtt Home Assistant schema builder
 Please don't rebuild package if are using HA old version

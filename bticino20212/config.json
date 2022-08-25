@@ -1,6 +1,6 @@
 {
-  "name": "Sdomotica BTicino Beta 2021 remote",
-  "version": "2022.08.0",
+  "name": "Sdomotica BTicino SCS remote",
+  "version": "2022.08.1",
   "slug": "sdomoticabticino20212",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for BTicino SCS for second system",

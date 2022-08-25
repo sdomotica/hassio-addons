@@ -3,10 +3,10 @@ Renamed from beta to production
 ## 2022.08.1 BREAKING !!!!!!
 Support for Enery Panel in HA please rebuild package
 Aggiunto il supporto per l'energia va rifatto il build 
-1 - Eliminate prima il vecchio packagE
-2 - Riavviate
-3 - Eliminate tutte le entities
-4 - Fate Build 
+1. Eliminate prima il vecchio packagE
+2. Riavviate
+3. Eliminate tutte le entities
+4. Fate Build 
 
 ## 2022.08.0 24.08.2022 
 Improved watchdog for BTicino Gateway disconnections

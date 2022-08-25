@@ -1,9 +1,9 @@
 {
   "name": "Sdomotica Gateway for BTicino - DEPRECATED",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "slug": "sdomoticadocker",
   "arch": ["armv7"],
-  "description": "---DEPRECATED-------",
+  "description": "DEPRECATED -- will be deleted at the end of 2022",
   "url": "https://www.facebook.com/profile.php?id=100011452626594",
    "webui": "http://[HOST]:[PORT:3100]",  
   "startup": "application",

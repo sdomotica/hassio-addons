@@ -1,0 +1,2 @@
+FROM sdomotica/opensprinklerrpi:alpine
+EXPOSE 8080

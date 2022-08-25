@@ -1,0 +1,23 @@
+{
+  "name": "Sdomotica per OpenSprinkler",
+  "version": "2022.08.0",
+  "slug": "sdomoticaopensprinkler",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "OpenSprinkler for Sdomotica and BTicino SCS",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:8081]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "8080/tcp": 8081
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

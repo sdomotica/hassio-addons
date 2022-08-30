@@ -1,3 +1,6 @@
+## 2022.08.1 30.08.2022 
+- Group Valve BugFix
+
 ## 2022.08.0 25.08.2022 
 - New Netatmo autentication as per security request by Netatmo
 - Support to Netatmo Valve

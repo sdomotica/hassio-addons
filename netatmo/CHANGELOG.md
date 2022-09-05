@@ -1,3 +1,6 @@
+## 2022.09.0 05.09.2022 
+- Scene Builder Bugfix (Thanks to Michele)
+
 ## 2022.08.1 30.08.2022 
 - Group Valve BugFix
 

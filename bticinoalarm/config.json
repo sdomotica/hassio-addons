@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica BTicino Alarm",
-  "version": "0.0.5",
+  "version": "2022.09.0",
   "slug": "sdomoticabtalarm",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for BTicino Alarm 4200/4201/4202",

@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica Ksenia 4.0",
-  "version": "0.0.2",
+  "version": "2022.07.0",
   "slug": "sdomoticaksenia40",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for Ksenia 4.0 Alarm",

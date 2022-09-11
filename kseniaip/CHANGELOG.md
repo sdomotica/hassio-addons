@@ -1,3 +1,8 @@
+## 2022.09.1 11.09.2022
+- Release fix. 
+- BREAKING
+- Delete old package and rebuild
+
 ## 2022.09.0 06.09.2022
 - New Mqtt Builder
 

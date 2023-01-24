@@ -1,6 +1,6 @@
 {
-  "name": "Sdomotica Home + Control 2022",
-  "version": "2022.09.2",
+  "name": "Sdomotica Home + Control 2023",
+  "version": "2023.02.0",
   "slug": "sdomoticanetatmo2022",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "For Living Now Smart, Smarther2 X8002, Netatmo Valve, Netatmo Meteo",

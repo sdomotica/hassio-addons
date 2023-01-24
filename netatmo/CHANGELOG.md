@@ -1,3 +1,6 @@
+## 2023.02.0 24.01.2023
+- Fix bugs on Netatmo Weather Station issue
+
 ## 2022.09.2 07.09.2022 
 - Small improvements on package's builder
 

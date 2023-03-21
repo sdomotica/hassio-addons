@@ -1,0 +1,25 @@
+{
+  "name": "Sdomotica Telegea Gateway",
+  "version": "2023.01.0",
+  "slug": "sdomoticatelegea2023",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Addon for Telegea Hub Integration",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3501]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3501/tcp": 3501,
+    "3502/tcp": 3502
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

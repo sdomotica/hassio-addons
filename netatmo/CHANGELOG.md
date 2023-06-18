@@ -1,3 +1,7 @@
+## 2023.06.0 18.06.2023
+- Fix bugs
+- Netatmo Rain sensor add
+
 ## 2023.02.0 24.01.2023
 - Fix bugs on Netatmo Weather Station issue
 

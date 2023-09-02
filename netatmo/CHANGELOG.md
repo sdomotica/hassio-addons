@@ -1,3 +1,6 @@
+## 2023.09.1 02.09.2023
+- Netatmo cloud not response fix
+
 ## 2023.06.0 18.06.2023
 - Fix bugs
 - Netatmo Rain sensor add

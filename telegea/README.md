@@ -5,9 +5,8 @@
 ![Banner1][banner1]
 
 
-### Integrate your Telegea Hub into Home Assistant
+# Integrate your Telegea Hub into Home Assistant
 
-![WebInterface][webinterface]
 
 ## Termogea
 Termogea is a smart monitoring and control system for Heating, Ventilating and Air Conditioning (HVAC) plants. As a result of more than 5 years of research in the field of thermal and electronic systems, Termogea provides all necessary functions to maximize the efficiency and minimize consumption. It can handle the classical HVAC systems such as radiators and fan coils as well as more sophisticated radiant floor/ceiling panels and dehumidifiers.

@@ -13,7 +13,7 @@
 #EXPOSE 3501 3502
 #CMD ./sdomotica/sdomoticatelegea
 
-FROM sdomotica/telegea:test
+FROM sdomotica/telegea:first
 VOLUME /sdomotica
 EXPOSE 3501 3502
 CMD ./sdomotica/sdomoticatelegea

@@ -1,0 +1,25 @@
+{
+  "name": "Sdomotica PrimeLan Inim",
+  "version": "2023.09.0",
+  "slug": "sdomoticainim2023",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Addon for PrimeLan Inim Integration",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3040]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3040/tcp": 3040,
+    "3041/tcp": 3041
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

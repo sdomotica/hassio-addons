@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica Telegea Gateway",
-  "version": "2023.09.0",
+  "version": "2023.09.1",
   "slug": "sdomoticatelegea2023",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Addon for Telegea Hub Integration",

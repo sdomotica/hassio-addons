@@ -1,3 +1,9 @@
+## 2023.09.0 09.09.2023
+- Connection sensor
+- Fix Group Builder
+- Add Translation for some status
+
+
 ## 2022.07.0 07.09.2022
 - Small improvements
 - New Mqtt Builder

@@ -1,3 +1,8 @@
+## 2023.09.0 10.09.2023
+- Add Output Controls
+- Fix Entity with non latin character
+- Better group fill
+
 ## 2022.09.1 11.09.2022
 - Release fix. 
 - BREAKING

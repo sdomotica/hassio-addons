@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica KseniaIP",
-  "version": "2022.09.1",
+  "version": "2023.09.0",
   "slug": "kseniaip2022",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for KseniaIP Alarm",

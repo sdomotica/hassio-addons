@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica PrimeLan Inim",
-  "version": "2023.09.0",
+  "version": "2023.09.1",
   "slug": "sdomoticainim2023",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Addon for PrimeLan Inim Integration",

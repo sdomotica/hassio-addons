@@ -1,3 +1,6 @@
+## 2023.09.2 11.09.2023
+- Bug Fix
+
 ## 2023.09.0 09.09.2023
 - Connection sensor
 - Fix Group Builder

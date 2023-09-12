@@ -1,3 +1,6 @@
+## 2023.09.3
+Output control log verbose
+
 ## 2023.09.2
 Fix Output cmd callback
 

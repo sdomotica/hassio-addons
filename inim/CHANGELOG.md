@@ -1,3 +1,6 @@
+## 2023.09.2
+Fix Output cmd callback
+
 ## 2023.09.1
 Fix Output COntrols
 

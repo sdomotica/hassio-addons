@@ -1,3 +1,6 @@
+## 2023.09.4
+Output control bypass
+
 ## 2023.09.3
 Output control log verbose
 

@@ -1,0 +1,24 @@
+{
+  "name": "Sdomotica BTICINO ALARM NEXT",
+  "version": "2023.09.2",
+  "slug": "sdomoticaksenia40bticino",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Gateway for BTicino Alarm 4200C/4201C/4203C",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3020]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3020/tcp": 3020
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

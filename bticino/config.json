@@ -1,5 +1,5 @@
 {
-  "name": "Sdomotica Gateway for BTicino - DEPRECATED",
+  "name": "DEPRECATED Sdomotica Gateway for BTicino",
   "version": "2.2.8",
   "slug": "sdomoticadocker",
   "arch": ["armv7"],

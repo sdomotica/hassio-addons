@@ -1,3 +1,7 @@
+## 2023.12.1 30.12.2023
+- Support third party manufacturers
+- Aggiunto supporto a componenti Zibgee non BTicino
+
 ## 2023.09.1 02.09.2023
 - Netatmo cloud not response fix
 

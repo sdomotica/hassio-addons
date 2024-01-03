@@ -1,5 +1,5 @@
 ## 2024.1.2 03.01.2024
-- Fix cover Stop
+- Fix cover Stop 
 
 ## 2023.12.1 30.12.2023
 - Support third party manufacturers

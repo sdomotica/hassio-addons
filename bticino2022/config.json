@@ -1,6 +1,6 @@
 {
-  "name": "Sdomotica BTicino SCS beta 2022",
-  "version": "2022.08.0",
+  "name": "Sdomotica BTicino SCS beta 2024",
+  "version": "2024.01.1",
   "slug": "sdomoticabticino2022",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Test Addon BTicino MyHome SCS",

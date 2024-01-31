@@ -1,3 +1,9 @@
+## 2024.01.6 31.01.2024
+- Bug Fix
+- \0 \10 management
+- New group and entity builder
+
+
 ## 2023.09.2 11.09.2023
 - Bug Fix
 

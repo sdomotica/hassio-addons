@@ -1,0 +1,25 @@
+{
+  "name": "Sdomotica Telegea TEST",
+  "version": "2024.02.1",
+  "slug": "sdomoticatelegea2023test",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "TEST for Telegea Hub Integration",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3501]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3501/tcp": 3501,
+    "3502/tcp": 3502
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

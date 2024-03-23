@@ -1,3 +1,6 @@
+## 2024.3.2 23.03.2024
+- Add Netatmo Internal Module (Module4)
+
 ## 2024.3.1 14.03.2024
 - Fix builder
 - Room Builder 

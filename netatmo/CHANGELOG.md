@@ -1,3 +1,7 @@
+## 2024.4.1 14.04.2024
+- Fix max_temp for climate
+- Added new devices NLT NLD NLFE NLM
+
 ## 2024.3.2 23.03.2024
 - Add Netatmo Internal Module (Module4)
 

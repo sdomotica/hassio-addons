@@ -1,3 +1,6 @@
+## 2024.04.2 17.04.2024 
+LTS for temperature sensors
+
 ## 2024.04.1 15.04.2024 
 Fix F422 systems
 Fixato frame con impianti con espansione logica

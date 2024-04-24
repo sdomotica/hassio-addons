@@ -1,3 +1,6 @@
+## 2024.4.2 24.04.2024
+- Fix set position cover
+
 ## 2024.4.1 14.04.2024
 - Fix max_temp for climate
 - Added new devices NLT NLD NLFE NLM

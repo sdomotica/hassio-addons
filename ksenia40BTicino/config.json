@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica BTICINO ALARM NEXT",
-  "version": "2023.09.2",
+  "version": "2024.06.1",
   "slug": "sdomoticaksenia40bticino",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for BTicino Alarm 4200C/4201C/4203C",

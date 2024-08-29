@@ -17,7 +17,7 @@
 #parte release
 
 FROM sdomotica/inim:first
-VOLUME /sdomotica
+#VOLUME /sdomotica
 EXPOSE 3040
 CMD ./sdomotica/inimrpi
 

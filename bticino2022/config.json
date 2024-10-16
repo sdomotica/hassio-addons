@@ -1,0 +1,26 @@
+{
+  "name": "Sdomotica BTicino SCS beta 2024",
+  "version": "2024.04.2",
+  "slug": "sdomoticabticino2022",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Test Addon BTicino MyHome SCS",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3100]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3100/tcp": 3100,
+    "3000/tcp": 3000,
+    "3300/tcp": 3300
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}

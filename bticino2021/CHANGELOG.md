@@ -1,9 +1,20 @@
+## 2025.03.1 08.03.2025 
+Builder Fixed W sensor error to Wh
+
+## 2024.11.2 20.11.2024
+Termo management improvement
+1. 3550 Central 99 Zone Exclusive Season change
+2. 3550 Program Selections
+3. Fancoin controls
+4. Celsius Symbol on temperature sensor
+
 ## 2022.08.1 25.08.2022 
 Renamed from beta to production
+
 ## 2022.08.1 BREAKING !!!!!!
-Support for Enery Panel in HA please rebuild package
+Support for Energy Panel in HA please rebuild package
 Aggiunto il supporto per l'energia va rifatto il build 
-1. Eliminate prima il vecchio packagE
+1. Eliminate prima il vecchio package
 2. Riavviate
 3. Eliminate tutte le entities
 4. Fate Build 

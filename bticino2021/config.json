@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica BTicino SCS",
-  "version": "2022.08.1",
+  "version": "2025.03.1",
   "slug": "sdomoticabticino2021",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for BTicino SCS",

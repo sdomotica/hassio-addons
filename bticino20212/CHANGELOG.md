@@ -1,5 +1,5 @@
 ## 2025.03.2 09.03.2025 
-Revert to W and changed type from enery to power
+Revert to W and changed type from energy to power
 
 ## 2025.03.1 08.03.2025 
 Builder Fixed W sensor error to Wh

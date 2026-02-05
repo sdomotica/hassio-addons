@@ -1,0 +1,25 @@
+{
+  "name": "Sdomotica BTicino F460",
+  "version": "2026.2.0",
+  "slug": "sdomoticaf460",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "For BTicino SCS using F460",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3402]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3401/tcp": 3402
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+  
+}

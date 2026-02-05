@@ -44,6 +44,6 @@ SOFTWARE.
 [i386-shield]: https://img.shields.io/badge/i386-no-green.svg
 [manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_Netatmo.pdf
 [webinterface]: http://www.sdomotica.com/gateway2/scswebinterface.png
-[scs1]: http://www.sdomotica.com/gateway2/netatmo1.jpg
+[scs1]: http://www.sdomotica.com/gateway2/f460_1.png
 [scs2]: http://www.sdomotica.com/gateway2/netatmo2.jpg
 [scs3]: http://www.sdomotica.com/gateway2/netatmo3.jpg

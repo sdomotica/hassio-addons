@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica BTicino Smarther 1",
-  "version": "0.0.1",
+  "version": "2026.02.0",
   "slug": "sdomoticabttermo",
   "arch": ["armhf", "armv7", "aarch64"],
   "description": "Gateway for BTicino Smarther 1 X8000/X8000W",

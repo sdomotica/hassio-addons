@@ -1,3 +1,7 @@
+## 2026.02.1 19.02.2026
+Fixed mode set
+Fixed program select
+
 ## 2026.02.0 17.02.2026
 Update mqtt and object_id issue
 

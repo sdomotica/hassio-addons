@@ -19,8 +19,6 @@
     "share:rw",
 	"config:rw"
   ],
-  "host_pid": true,
-  "host_network": true,
   "options": {
   },
   "schema": {

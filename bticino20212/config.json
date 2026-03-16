@@ -19,8 +19,8 @@
     "share:rw",
 	"config:rw"
   ],
-  "options": {
-  },
-  "schema": {
-  }
+  "options": {},
+  "schema": {},
+  "hassio_api": true,
+  "hassio_role": "default"
 }

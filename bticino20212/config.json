@@ -23,4 +23,5 @@
   "schema": {},
   "hassio_api": true,
   "hassio_role": "default"
+  
 }

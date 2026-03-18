@@ -1,6 +1,6 @@
 # Sdomotica Add-on per Home Assistant
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/licenza-Commerciale-red.svg)](http://www.sdomotica.com)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Compatibile-brightgreen.svg)](https://www.home-assistant.io/)
 [![Stars](https://img.shields.io/github/stars/sdomotica/hassio-addons?style=social)](https://github.com/sdomotica/hassio-addons/stargazers)
 
@@ -17,6 +17,7 @@
 | **bticino2021** | Integra il sistema domotico **BTicino MyHome SCS** bus in Home Assistant. Supporta luci, tapparelle, termostati, monitoraggio energetico e scenari tramite il protocollo OpenWebNet. Compatibile con i gateway F454, MH200, MH201 e similari. |
 | **bticino20212** | Versione aggiornata dell'integrazione BTicino MyHome, con miglioramenti e supporto per le versioni firmware più recenti dei gateway. |
 | **f460** | Integrazione dedicata per il **server BTicino F460** — il server SCS DIN principale che supporta fino a 525 dispositivi. Permette il controllo completo del sistema MyHome: luci, tapparelle, climatizzazione e gestione energetica. |
+| **netatmo** | Integra il sistema domotico **BTicino Living Now Zigbee** completo in Home Assistant — luci, tapparelle, controllo carichi e gestione energetica — insieme al termostato connesso **Smarther2** (basato su Netatmo). |
 
 ---
 
@@ -24,7 +25,7 @@
 
 | Add-on | Descrizione |
 |--------|-------------|
-| **bticinoalarm** | Integra il **sistema di allarme BTicino MyHome** in Home Assistant. Permette l'inserimento/disinserimento delle partizioni, il monitoraggio delle zone e la ricezione in tempo reale degli eventi di allarme. |
+| **bticinoalarm** | Integra il **sistema di allarme BTicino MyHome** in Home Assistant. Permette l'inserimento/disinserimento delle partizioni, il monitoraggio delle zone e la ricezione in tempo reale degli eventi di allarme. Compatibile con le centrali: **4200, 4201, 4202**, **4200C, 4201C, 4203C** e **3486**. |
 | **ksenia40** | Integrazione per **Ksenia Lares 4.0** — la centrale di sicurezza e domotica italiana all-in-one. Supporta inserimento/disinserimento, monitoraggio zone, controllo uscite e scenari domotici. |
 | **kseniaip** | Integrazione per **Ksenia LaresIP** (serie pre-4.0, es. Lares 48IP). Si connette tramite l'interfaccia web locale per monitorare zone e partizioni e controllare il sistema di allarme. Compatibile con i sistemi di allarme BTicino. |
 | **ksenia40BTicino** | Integrazione combinata per sistemi Ksenia utilizzati insieme a installazioni BTicino. Unifica gli eventi di sicurezza Ksenia con la domotica BTicino in un unico ambiente Home Assistant. |
@@ -37,7 +38,7 @@
 | Add-on | Descrizione |
 |--------|-------------|
 | **smarther** | Integra il **termostato connesso BTicino Smarther X8000 (Gen 1)** in Home Assistant. Fornisce monitoraggio della temperatura, controllo del setpoint e programmazione oraria tramite le API cloud Legrand/BTicino. |
-| **netatmo** | Integra i dispositivi **BTicino Living Now Zigbee** e il termostato connesso **Smarther2** (basato su Netatmo). Collega l'ecosistema Netatmo con Home Assistant per il controllo climatico e la gestione energetica. |
+| **netatmo** | Integra anche il termostato **Smarther2** (basato su Netatmo) per il controllo climatico e la programmazione oraria. Vedi la sezione Domotica per i dettagli completi su Living Now Zigbee. |
 
 ---
 
@@ -98,7 +99,8 @@ Segnalazioni e pull request sono benvenute. Se hai un'installazione BTicino, Ini
 
 ## 📝 Licenza
 
-Questo progetto è distribuito sotto licenza MIT.
+Questo software è **commerciale** e richiede una licenza valida per funzionare. Potrebbe essere disponibile un periodo di prova gratuito.
+Per informazioni su prezzi e licenze visita [sdomotica.com](http://www.sdomotica.com).
 
 ---
 

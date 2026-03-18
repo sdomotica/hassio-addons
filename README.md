@@ -1,6 +1,6 @@
 # Sdomotica Add-ons for Home Assistant
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Commercial-red.svg)](http://www.sdomotica.com)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Compatible-brightgreen.svg)](https://www.home-assistant.io/)
 [![Stars](https://img.shields.io/github/stars/sdomotica/hassio-addons?style=social)](https://github.com/sdomotica/hassio-addons/stargazers)
 
@@ -17,6 +17,7 @@
 | **bticino2021** | Integrates the **BTicino MyHome SCS** bus home automation system into Home Assistant. Supports lights, shutters, thermostats, energy monitoring and scenarios via the OpenWebNet protocol. Compatible with gateways F454, MH200, MH201 and similar. |
 | **bticino20212** | Updated version of the BTicino MyHome integration, with improvements and support for newer gateway firmware versions. |
 | **f460** | Dedicated integration for the **BTicino F460 server** — the main SCS DIN server supporting up to 525 devices. Enables full control of the MyHome system including lighting, shutters, climate and energy management. |
+| **netatmo** | Integrates the full **BTicino Living Now Zigbee** home automation system into Home Assistant — lights, shutters, load control and energy management — together with the **Smarther2** connected thermostat (Netatmo-based). |
 
 ---
 
@@ -24,7 +25,7 @@
 
 | Add-on | Description |
 |--------|-------------|
-| **bticinoalarm** | Integrates the **BTicino MyHome alarm system** into Home Assistant. Allows arming/disarming partitions, monitoring zones and receiving real-time alarm events. |
+| **bticinoalarm** | Integrates the **BTicino MyHome alarm system** into Home Assistant. Allows arming/disarming partitions, monitoring zones and receiving real-time alarm events. Compatible with: **4200, 4201, 4202**, **4200C, 4201C, 4203C** and **3486** alarm control panels. |
 | **ksenia40** | Integration for **Ksenia Lares 4.0** — the Italian all-in-one security and home automation control panel. Supports arming/disarming, zone monitoring, outputs control and home automation scenarios. |
 | **kseniaip** | Integration for **Ksenia LaresIP** (pre-4.0 series, e.g. Lares 48IP). Connects via the local web interface to monitor zones and partitions and control the alarm system. Compatible with BTicino alarm systems. |
 | **ksenia40BTicino** | Combined integration for Ksenia alarm systems used alongside BTicino installations. Bridges Ksenia security events with BTicino home automation in a unified Home Assistant environment. |
@@ -37,7 +38,7 @@
 | Add-on | Description |
 |--------|-------------|
 | **smarther** | Integrates the **BTicino Smarther X8000 (Gen 1)** connected thermostat into Home Assistant. Provides temperature monitoring, setpoint control and scheduling via the Legrand/BTicino cloud API. |
-| **netatmo** | Integrates **BTicino Living Now Zigbee** devices and the **Smarther2** (Netatmo-based) connected thermostat. Bridges the Netatmo ecosystem with Home Assistant for climate control and energy management. |
+| **netatmo** | Also integrates the **Smarther2** (Netatmo-based) thermostat for climate control and scheduling. See the Home Automation section for full Living Now Zigbee details. |
 
 ---
 
@@ -98,7 +99,8 @@ Issues and pull requests are welcome. If you have a BTicino, Inim or Ksenia inst
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This software is **commercial** and requires a valid license to operate. A free trial period may be available.
+For pricing and licensing information, please visit [sdomotica.com](http://www.sdomotica.com).
 
 ---
 

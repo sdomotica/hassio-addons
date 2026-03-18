@@ -17,9 +17,13 @@
     "share:rw",
 	"config:rw"
   ],
+	"init": false,
   "options": {},
   "schema": {},
   "hassio_api": true,
-  "hassio_role": "default"
+  "homeassistant_api": true,
+  "host_network": true,
+  "hassio_role": "default",
+  "host_dbus": true
 
 }

@@ -1,0 +1,29 @@
+{
+  "name": "Sdomotica PrimeLan Inim",
+  "version": "2023.09.4",
+  "slug": "sdomoticainim2023",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Addon for PrimeLan Inim Integration",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3040]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3040/tcp": 3060
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+	"init": false,
+  "options": {},
+  "schema": {},
+  "hassio_api": true,
+  "homeassistant_api": true,
+  "host_network": true,
+  "hassio_role": "default",
+  "host_dbus": true
+
+}

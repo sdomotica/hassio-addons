@@ -41,8 +41,8 @@ PrimeX dispone di connettività Ethernet nativa e di un Web Server integrato con
 
 ## [EN] Manual / [IT] Manuale
 
-Here the manual for configure the addon  
-Qui il manuale per la configurazione dell'addon
+Here the [manual][manuale] for configure the addon  
+Qui il [manual][manuale] per la configurazione dell'addon
 
 ---
 
@@ -56,6 +56,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-green.svg
-[manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_Inim.pdf
+[manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_InimX.pdf
 [banner1]: http://www.sdomotica.com/gateway2/inimxbanner.png
 [banner2]: http://www.sdomotica.com/gateway2/inimx.png

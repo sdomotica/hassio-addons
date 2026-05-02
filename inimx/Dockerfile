@@ -1,6 +1,6 @@
 FROM sdomotica/inimx:first
 #VOLUME /sdomotica
-EXPOSE 3040
+EXPOSE 3060
 CMD ./sdomotica/inimxrpi
 
 

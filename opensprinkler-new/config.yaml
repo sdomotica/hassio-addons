@@ -1,15 +1,16 @@
 name: "OpenSprinkler by Sdomotica"
 description: "OpenSprinkler Firmware custom for BTicino SCS"
-version: "2025.5.6"
+version: "2025.5.7"
 slug: "opensprinkler_sdomotica"
 arch:
   - aarch64
 init: false
 options: {}
 schema: {}
-# Disattiviamo Ingress per usare il link diretto sulla porta esterna
-ingress: false
-webui: "http://[HOST]:[PORT:8080]"
+# Abilita l'interfaccia protetta e integrata
+ingress: true
+ingress_port: 8080
+# Forza la creazione del pannello laterale nativo per Ingress
 panel: true
 panel_icon: "mdi:sprinkler-variant"
 privileged:

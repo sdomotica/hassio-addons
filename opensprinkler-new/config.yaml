@@ -1,0 +1,27 @@
+name: "OpenSprinkler by Sdomotica"
+description: "OpenSprinkler Firmware custom edition by Sdomotica"
+version: "2025.5.2"
+slug: "opensprinkler_sdomotica"
+arch:
+  - aarch64
+init: false
+options: {}
+schema: {}
+webui: "http://[HOST]:[PORT:5557]"
+# Permessi hardware completi e privilegiati per l'accesso ai pin
+privileged:
+  - SYS_RAWIO
+devices:
+  - /dev/gpiomem:/dev/gpiomem
+  - /dev/gpiochip0:/dev/gpiochip0
+  - /dev/gpiochip1:/dev/gpiochip1
+  - /dev/gpiochip2:/dev/gpiochip2
+  - /dev/gpiochip3:/dev/gpiochip3
+  - /dev/gpiochip4:/dev/gpiochip4
+ports:
+  8080/tcp: 5557
+ports_description:
+  8080/tcp: Web interface
+panel_icon: "mdi:sprinkler-variant"
+dependencies:
+  - core_mosquitto

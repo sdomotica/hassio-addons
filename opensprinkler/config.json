@@ -1,5 +1,5 @@
 {
-  "name": "Sdomotica per OpenSprinkler",
+  "name": "DEPRECATED Sdomotica per OpenSprinkler",
   "version": "2022.08.0",
   "slug": "sdomoticaopensprinkler",
   "arch": ["armhf", "armv7", "aarch64"],

@@ -1,19 +1,17 @@
 name: "OpenSprinkler by Sdomotica"
 description: "OpenSprinkler Firmware custom for BTicino SCS"
-version: "2025.5.5"
+version: "2025.5.6"
 slug: "opensprinkler_sdomotica"
 arch:
   - aarch64
 init: false
 options: {}
 schema: {}
-webui: "http://[HOST]:[PORT:5557]"
-# Abilita l'interfaccia Web integrata
-ingress: true
-# Forza la visualizzazione dell'add-on nella barra laterale di Home Assistant
+# Disattiviamo Ingress per usare il link diretto sulla porta esterna
+ingress: false
+webui: "http://[HOST]:[PORT:8080]"
 panel: true
 panel_icon: "mdi:sprinkler-variant"
-# Permessi hardware completi e privilegiati per l'accesso ai pin
 privileged:
   - SYS_RAWIO
 devices:
@@ -27,6 +25,5 @@ ports:
   8080/tcp: 5557
 ports_description:
   8080/tcp: Web interface
-
 dependencies:
   - core_mosquitto

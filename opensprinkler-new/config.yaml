@@ -1,6 +1,6 @@
 name: "OpenSprinkler by Sdomotica"
 description: "OpenSprinkler Firmware custom for BTicino SCS"
-version: "2025.5.7"
+version: "2026.6.1"
 slug: "opensprinkler_sdomotica"
 arch:
   - aarch64
@@ -28,3 +28,9 @@ ports_description:
   8080/tcp: Web interface
 dependencies:
   - core_mosquitto
+  
+map:
+  - data:rw
+  - share:rw
+  - config:rw
+  

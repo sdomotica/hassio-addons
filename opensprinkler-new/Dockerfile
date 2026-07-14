@@ -14,8 +14,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 WORKDIR /app
 # Copia l'eseguibile e gli script
-COPY OpenSprinkler /app/OpenSprinkler
-RUN chmod a+x /app/OpenSprinkler
+COPY OpenSprinklerDE /app/OpenSprinklerDE
+RUN chmod a+x /app/OpenSprinklerDE
 # Verifica che tutte le librerie dinamiche siano risolte: se manca qualcosa la build fallisce
 RUN if ldd /app/OpenSprinkler | grep "not found"; then \
         echo "ERRORE: librerie mancanti nel container" && exit 1; \

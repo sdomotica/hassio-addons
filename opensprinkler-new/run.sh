@@ -7,4 +7,4 @@ echo "====================================================="
 
 # -d indica la cartella dei dati di configurazione (/data è persistente in HassOS)
 # -s indica la cartella dei file statici web (se integrati nell'eseguibile, altrimenti punta a /app)
-exec /app/OpenSprinklerDE -d /data
+exec /app/OpenSprinkler -d /data

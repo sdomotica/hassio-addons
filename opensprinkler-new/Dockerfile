@@ -10,10 +10,13 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libi2c0 \
     libmodbus5 \
     libbluetooth3 \
-    liblgpio1 \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
+
+# Libreria lgpio copiata dal sistema di build (non disponibile nei repo Debian)
+COPY liblgpio.so.1* /usr/lib/aarch64-linux-gnu/
+RUN ldconfig
 
 # Copia l'eseguibile e gli script
 COPY OpenSprinklerDE /app/OpenSprinklerDE

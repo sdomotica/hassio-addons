@@ -1,0 +1,29 @@
+{
+  "name": "Sdomotica 300Eos Hack",
+  "version": "2027.7.9",
+  "slug": "sdomoticanetatmohackarm",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "For 300Eos Door Entry",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3451]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3451/tcp": 3451
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+	"init": false,
+  "options": {},
+  "schema": {},
+  "hassio_api": true,
+  "homeassistant_api": true,
+  "host_network": true,
+  "hassio_role": "default",
+  "host_dbus": true
+
+}

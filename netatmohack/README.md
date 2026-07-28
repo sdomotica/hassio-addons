@@ -1,6 +1,6 @@
 # Sdomotica Classe 300EOS e 100X (Home + Security)
 
-![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
+![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports i386 Architecture][i386-shield]
 
 ## 🔑 Apertura Cancelletto e Porte
 Controlla direttamente da Home Assistant l'apertura dei cancelli e delle porte del tuo impianto videocitofonico con un semplice comando.
@@ -67,10 +67,8 @@ SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-no-green.svg
-[armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-green.svg
-[manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_Netatmo.pdf
+[manuale]: http://www.sdomotica.com/gateway2/Addon_Sdomotica_NetatmoHack.pdf
 [webinterface]: http://www.sdomotica.com/gateway2/scswebinterface.png
 [scs4]: http://www.sdomotica.com/gateway2/netatmo4.png
 [scs5]: http://www.sdomotica.com/gateway2/netatmo5.png

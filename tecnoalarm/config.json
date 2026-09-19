@@ -1,0 +1,29 @@
+{
+  "name": "Sdomotica Tecnoalarm",
+  "version": "2026.09.1",
+  "slug": "sdomoticatecnoalarmrpi",
+  "arch": ["armhf", "armv7", "aarch64"],
+  "description": "Addon for Tecnoalarm by Tecnout protocol",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3050]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3050/tcp": 3050
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+	"init": false,
+  "options": {},
+  "schema": {},
+  "hassio_api": true,
+  "homeassistant_api": true,
+  "host_network": true,
+  "hassio_role": "default",
+  "host_dbus": true
+
+}
